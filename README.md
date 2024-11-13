@@ -62,6 +62,8 @@ mae=mean_absolute_error(y_test,y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
+*/
+```
 
 ## Output:
 0     2.5      21
@@ -142,8 +144,7 @@ print("RMSE= ",rmse)
 MSE =  4.691397441397438
 MAE =  4.691397441397438
 RMSE=  2.1659633979819324
-*/
-```
+
 
 
 ## Result:

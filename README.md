@@ -19,8 +19,7 @@ To write a program to predict the marks scored by a student using the simple lin
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: M.K.Suriya prakash (Iot)
 RegisterNumber: 24901016 
-*/
-```
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -143,6 +142,8 @@ print("RMSE= ",rmse)
 MSE =  4.691397441397438
 MAE =  4.691397441397438
 RMSE=  2.1659633979819324
+*/
+```
 
 
 ## Result:
